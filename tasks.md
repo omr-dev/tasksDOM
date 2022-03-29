@@ -1,0 +1,18 @@
+- [ ]  Make page where user can click a button that changes font family, font size, and color of the paragraph text - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks
+- [ ]  Make a page with a form that has First Name and Last Name, when button is clicked, first and last name are displayed on page - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/firstLastName.html
+- [ ]  Make a page where when user clicks in input field, it changes the background of a paragraph - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/changeBackground.html
+- [ ]  Write a JavaScript function to get the value of the href, hreflang, rel, target, and type attributes of the specified link, hint: document.querySelector("nnn").hreflang - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/changeBackground.html
+- [ ]  Make a page with a button that adds a row to a table, each row has an edit button which allows you to change the value of each cell in the row - hint: insertRow, insertCell - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/table.html
+- [ ]  Make a dropdown control with numerous entries, make a button which removes the currently selected entry - hint: x.remove(x.selectedIndex); - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/dropdown.html
+- [ ]  Create a page that has a button which displays a random photo - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/randomPhoto/index.html
+- [ ]  Create a page that has a button that toggles the highlighting of strong tags on the page
+- [ ]  Create a page that shows the current width and height of the window as it is resized - hint: let w = document.documentElement.clientWidth; let h = document.documentElement.clientHeight;
+- [ ]  Make a JS/DOM single-page-application site which has a navigation menu at the top with the names of pages, and each time you click a page name, it shows the appropriate page - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/spa/index.html
+- [ ]  Use innerHTML und string literals to create employee cards from the Northwind database
+- [ ]  Use createElement and appendChild to create employee cards from the Northwind database
+- [ ]  Create an interactive flashcard game based on the Curriculum JSON
+- [ ]  Create a password generator
+- [ ]  Create a login page with validation and "show password" option
+- [ ]  Create a search machine for the HTML DOM items in Curriculum
+- [ ]  Create a three-page form which prints out the data at the end
+- [ ]  Create a bookstore to order books
