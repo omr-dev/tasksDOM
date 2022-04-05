@@ -4,8 +4,8 @@
 - [X]  Write a JavaScript function to get the value of the href, hreflang, rel, target, and type attributes of the specified link, hint: document.querySelector("nnn").hreflang - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/changeBackground.html
 - [X]  Make a page with a button that adds a row to a table, each row has an edit button which allows you to change the value of each cell in the row - hint: insertRow, insertCell - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/table.html
 - [X]  Make a dropdown control with numerous entries, make a button which removes the currently selected entry - hint: x.remove(x.selectedIndex); - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/dropdown.html
-- [ ]  Create a page that has a button which displays a random photo - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/randomPhoto/index.html
-- [ ]  Create a page that has a button that toggles the highlighting of strong tags on the page
+- [X]  Create a page that has a button which displays a random photo - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/randomPhoto/index.html
+- [X]  Create a page that has a button that toggles the highlighting of strong tags on the page
 - [ ]  Create a page that shows the current width and height of the window as it is resized - hint: let w = document.documentElement.clientWidth; let h = document.documentElement.clientHeight;
 - [ ]  Make a JS/DOM single-page-application site which has a navigation menu at the top with the names of pages, and each time you click a page name, it shows the appropriate page - https://github.com/edwardtanguay/livecoding-2022-03-28-tasks/blob/master/spa/index.html
 - [ ]  Use innerHTML und string literals to create employee cards from the Northwind database
